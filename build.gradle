@@ -1,10 +1,10 @@
 apply plugin: 'java'
 apply plugin: 'application'
 
-archivesBaseName = "task-list"
+archivesBaseName = "todo-list"
 version = '1.0'
 applicationName = "todo-list"
-mainClassName = "App"
+mainClassName = "todo.App"
 
 repositories {
     mavenCentral()

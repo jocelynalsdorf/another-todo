@@ -1,3 +1,5 @@
+package todo;
+
 import org.junit.rules.ExternalResource;
 
 public class ClearRule extends ExternalResource {
