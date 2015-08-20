@@ -1,1 +1,1 @@
-web: ./build/install/todo-list/bin/todo-list
+web: ./build/install/todo-list/bin/task-list
